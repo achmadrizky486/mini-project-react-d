@@ -24,7 +24,7 @@ const handleCart = (state = cart, action) => {
         (barangYangDicari) => barangYangDicari.id === product.id
       );
       if (ada1.qty === 1) {
-        //Tambah barang
+        //Hapus Barang dari cart
         return state.filter((x) => x.id !== ada1.id);
       } else {
         return state.map((x) =>

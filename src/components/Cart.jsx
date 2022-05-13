@@ -72,7 +72,7 @@ const Cart = () => {
               to="/checkout"
               className="btn btn-outline-dark mb-5 w-25 mx-auto"
             >
-              Proceed to Checkout
+              Checkout Now
             </a>
           </div>
         </div>
