@@ -1,3 +1,11 @@
+# Figma Design
+
+[Click This](https://www.figma.com/file/iK1vg5ljselyDzAwWztC8Z/TUKU?node-id=16%3A66)
+
+# Deploy
+
+[Click This](https://tuku-ecommerce.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
