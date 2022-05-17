@@ -62,7 +62,7 @@ const ProductDetail = () => {
             Rating {product.rating && product.rating.rate}
             <i className="fa fa-star"></i>
           </p>
-          <h3 className="display-6 fw-bold my-4">Rp {product.price * 14000}</h3>
+          <h3 className="display-6 fw-bold my-4">Rp {product.price * 14600}</h3>
           <p className="lead text-capitalize">{product.description}</p>
           <button
             className="btn btn-outline-dark me-2"
