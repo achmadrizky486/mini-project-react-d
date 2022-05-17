@@ -102,7 +102,10 @@ const Product = () => {
                     <h5 className="card-title mb-0">
                       {product.title.substring(0, 13)} ...
                     </h5>
-                    <p className="card-text lead fw-bold">G {product.price}</p>
+                    <p className="card-text lead fw-bold">
+                      Rp
+                      {product.price * 14000}
+                    </p>
                     <p className="card-text lead fw-bold">
                       {product.rating && product.rating.rate}
                       <i className="fa fa-star"></i>
